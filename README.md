@@ -6,3 +6,7 @@ A SwiftUI app with a modular architecture (`Core`, `Models`, `Networking`) and d
 
 ## Why this repository
 Demonstrates a clean SwiftUI modular setup with dependency injection and testable layers suitable for scaling features like `EventListView`.
+
+## Demo
+<img width="480" height="896" alt="output_gif" src="https://github.com/user-attachments/assets/e3b51d3d-0aff-4ba5-8daf-ea9bfcef894b" />
+
